@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ade_daftar_formulir_relative</string>
+    <string-array name="arr_prodi">
+        <item>INFORMATIKA</item>
+        <item>SISTEM INFORMATIKA</item>
+        <item>TEKNIK ELEKTRO</item>
+        <item>AKUNTANSI</item>
+        <item>MANAJEMEN</item>
+        <item>MANAJEMEN INFORMATIKA</item>
+    </string-array>
+</resources>
